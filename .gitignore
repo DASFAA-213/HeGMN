@@ -1,0 +1,6 @@
+.not_push/
+__pycache__/
+datasets/
+Logs/
+.vscode/
+wandb/
